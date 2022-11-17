@@ -1,0 +1,16 @@
+
+config ddns 'global'
+	option ddns_dateformat '%F %R'
+	option ddns_loglines '250'
+	option upd_privateip '0'
+
+config service 'zo'
+	option service_name 'cloudflare.com-v4'
+	option username 'calvinzo@qq.com'
+	option password 'bf07880aea3f3774bed8c1d100437a7ccd9dd'
+	option lookup_host 'router.imzo.cloud'
+	option domain 'router@imzo.cloud'
+	option check_interval '24'
+	option check_unit 'hours'
+	option enabled '1'
+

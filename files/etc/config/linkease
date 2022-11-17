@@ -1,0 +1,6 @@
+
+config linkease
+	option port '8897'
+	option enabled '1'
+	option preconfig 'WMz3keM2ib5rZ6557R6PmKsppaPN71i7CLx-Na0zaqFYSO4HPrdKeoBxnavfkHA6lzc-oXvmuMeSBpIoL0rVao8UwZ6fFG8dbVI_cO7ZwkHmdfZwVqOmFN9pU-DQiFDMi8_rMdRO2zeaeK3ICC452HOmlfpMUMX5hKI0ZFad564'
+
